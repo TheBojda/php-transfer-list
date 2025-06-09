@@ -1,0 +1,15 @@
+{
+    "name": "thebojda/php-transfer-list",
+    "description": "Synchroize transfer events from the blockchain to an SQLite table",
+    "type": "project",
+    "require": {
+        "drlecks/simple-web3-php": "^0.10.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laszlo Fazekas",
+            "email": "thebojda@gmail.com"
+        }
+    ]
+}
